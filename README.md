@@ -100,10 +100,10 @@
       **Intellectual Property Protection:** Keeping your code private helps protect your intellectual property and trade secrets from competitors or unauthorized users.  
       **Customizable Access Levels:** GitHub allows you to set different access levels for collaborators (e.g., read, write, admin), giving you fine-grained control over contributions.  
 
-  **Disadvantages**  
-      **Cost:** Private repositories may incur costs, especially for organizations or teams that require multiple private repositories or advanced features. GitHub offers free private repositories with limitations, but larger teams may need to pay for additional features.
-      **Limited Community Engagement:** The restricted access can limit community involvement and contributions, which may slow down development compared to public repositories.
-      **Onboarding Challenges:** New collaborators may have a harder time getting involved if they cannot see the repository until invited, potentially leading to a less vibrant community.
+  **Disadvantages**    
+      **Cost:** Private repositories may incur costs, especially for organizations or teams that require multiple private repositories or advanced features. GitHub offers free private repositories with limitations, but larger teams may need to pay for additional features.  
+      **Limited Community Engagement:** The restricted access can limit community involvement and contributions, which may slow down development compared to public repositories.  
+      **Onboarding Challenges:** New collaborators may have a harder time getting involved if they cannot see the repository until invited, potentially leading to a less vibrant community.  
 ##
 
 ## 5. Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?  
